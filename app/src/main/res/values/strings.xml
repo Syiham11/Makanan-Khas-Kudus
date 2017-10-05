@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Makanan Khas Kudus</string>
+
+    <string-array name="nama">
+        <item>Lentog Tanjung</item>
+        <item>Soto Kudus</item>
+        <item>Soto Kerbau Kudus</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Lentog adalah makanan khas kudus. Bahan dari lentog adalah lontong dengan sayur lodeh atau sayur nangka. Sajian kuliner kudus ini banyak dijajakan di kota kudus dan sekitarnya.</item>
+        <item>Soto Kudus merupakan salah satu kuliner yang berasal dari daerah Kudus, Jawa Tengah. Seperti layaknya soto-soto lainnya, soto kudus juga mempunyai rasa yang khas dengan kuah bening dan segar. Soto kudus sangat enak di santap ketika cuaca dingin karena kuahnya yang panas bisa menghangatkan tubuh. Atau bisa juga dengan menambahkan bahan pelengkap seperti nasi,sambal dan kerupuk. Untuk dapat menikmati soto kudus tidak perlu jauh ke daerah kudus, karena saat ini soto kudus pun banyak di jumpai di daerah-daerah lain, atau kita bisa membuatnya sendiri di rumah. Karena bahan-bahan soto kudus banyak di jumpai di pasar-pasar tradisional bahkan sampai supermarket. Soto kudus merupakan salah satu kuliner nusantara, yang resep-resepnya pun sangat beragam. Berikut akan saya bagikan beberapa resep soto kudus yang enak dan bergizi tentunya.</item>
+        <item>Soto Daging Kerbau adalah kuliner khas yang wajib Anda coba saat mampir ke Kudus. Berikut ini resep cara membuat soto daging kerbau khas Kota Kudus.</item>
+    </string-array>
+    <string name="lentog">
+        Bahan :\n
+• 3 bh lontong\n
+\n
+Bahan Sayur Nangka :\n
+• 300 gr nangka muda, cincang halus\n
+• 1 lbr daun salam\n
+• 2 cm lengkuas\n
+• 1 ltr santan\n
+\n
+Bumbu Halus :\n
+• 4 bh bawang merah\n
+• 2 siung bawang putih\n
+• 2 bh kemiri\n
+• 1 sdt garam\n
+\n
+Opor Tahu :\n
+• 10 bh tahu berkulit\n
+• 2 btg serai\n
+• 2 cm lengkuas\n
+• 1 lbr daun salam\n
+• 2 lbr daun jeruk\n
+• 750 ml santan\n
+\n
+Bumbu Halus :\n
+• 7 bh bawang merah\n
+• 3 siung bawang putih\n
+• 2 btr kemiri\n
+• 1 sdt ketumbar\n
+• ½ sdt lada\n
+• 1/8 sdt jinten\n
+• ¼ sdt lada\n
+• 2 cm jahe\n
+• 2 sdm minyak goreng\n
+• 1 sdt garam\n
+\n
+Cara Membuat Lentog Tanjung :\n
+1. Sayur Nangka: campur bumbu halus, daun salam, lengkuas, nangka dan santan. Masak sampai semua bahan matang dan nangka agak hancur. Angkat, sisihkan.\n
+2. Opor Tahu: tumis bumbu halus sampai harum, tambahkan serai, daun salam, lengkuas, dan daun jeruk. Masak sampai semua bumbu harum, masukkan santan dan tahu, masak kembali sampai mendidih.\n
+3. Penyajian: potong lontong taruh dalam mangkuk, beri sayur nangka dan tahu. Sajikan.</string>
+    <string name="soto">
+        Bahan- bahan yang di gunakan :\n
+1 ekor ayam kampong\n
+4 buah telur rebus (masing-masing potong menjadi 2 bagian)\n
+150 gram taoge siram dengan air panas,tiriskan\n
+5 batang seledri potong-potong tipis\n
+2 batang serai,memarkan\n
+2 buah jeruk nipis,ambil airnya\n
+2 sendok makan garam\n
+1 sendok teh gula pasir\n
+2 liter air\n
+Kecap manis secukupnya\n
+\n
+Bumbu yang dihaluskan :\n
+6 siung bawang putih\n
+5 siung bawang merah\n
+1 sendok makan merica\n
+½ sendok teh jinten\n
+6 butir kemiri\n
+3 cm jahe\n
+\n
+Cara Memasak :\n
+1.Panaskan air,lalu rebus ayam hingga kaldu harum dan ayam empuk.\n
+2.Siapkan wajan,panaskan minyak dan tumis bumbu-bumbu yang telah di haluskan hingga tercium aroma harum.Masukan bumbu yang telah ditumis ke dalam air kaldu,tambahkan garam dan gula.\n
+3.Teruskan memask hingga bumbu meresap ke dalam ayam,kemudian angkat daging ayam,tiriskan dan suir-suir menjadi kecil-kecil.</string>
+    <string name="sotokerbau">
+        Bahan:\n
+\n
+1/2 kg daging kerbau\n
+2 btg serai, memarkan\n
+3 daun jeruk\n
+3 sdm minyak sayur\n
+\n
+Bumbu halus:\n
+\n
+7 siung bawang merah\n
+2 cm ruas jahe\n
+1/2 sdt merica\n
+1 sdt garam\n
+\n
+Bahan pelengkap:\n
+\n
+100 gr kecambah/tauge\n
+2 btg daun bawang, iris tipis\n
+Bawang goreng untuk taburan\n
+\n
+Cara memasak:\n
+\n
+Rebus daging sampai empuk. Angkat, potong-potong 2×2 cm, lalu masukkan ke dalam panci lagi.\n
+Tumis bumbu halus bersama daun jeruk dan serai sampai harum. Masukkkan ke dalam air rebusan daging.</string>
+</resources>
